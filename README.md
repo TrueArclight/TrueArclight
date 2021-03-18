@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrueArclight
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning java, c++ c#, python, 
+- 🌱 I’m currently learning java, c++, c#, python, 
 - 📫 How to reach me truearclight@gmail.com
 
 <!---
